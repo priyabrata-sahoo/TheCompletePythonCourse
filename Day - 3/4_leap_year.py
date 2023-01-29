@@ -1,5 +1,4 @@
 year = int(input("Which year do you want to check? "))
-
 # on every year that is evenly divisible by 4 
 if year % 4 == 0:
 # except** every year that is evenly divisible by 100 

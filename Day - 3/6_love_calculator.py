@@ -4,6 +4,7 @@ name2 = input("What is their name? \n")
 
 combined_names = name1 + name2
 lower_names = combined_names.lower()
+
 t = lower_names.count("t")
 r = lower_names.count("r")
 u = lower_names.count("u")
