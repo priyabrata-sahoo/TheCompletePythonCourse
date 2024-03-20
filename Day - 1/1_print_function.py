@@ -16,3 +16,6 @@ print("Hello " + "World!")
 
 # used to concatenate two strings together: "Hello" and " World!" with a space already added before "World!"
 print("Hello" + " World!")
+
+# used to add double quote multiple time in line
+print("She said: \"Hello\"")
